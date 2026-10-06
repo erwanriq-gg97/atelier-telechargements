@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.29.1",
+  "version": "1.29.2",
   "obligatoire": false,
   "publie_le": "2026-10-06",
-  "notes": "Nouvelle icône PROJETLIA et logo BudappsAI. Le navigateur de l'application ne propose plus les noms, adresses et courriels saisis dans un autre dossier. La croix de l'Administration ferme de nouveau la fenêtre. Vos dossiers sont conservés.",
+  "notes": "CREATA calcule les charges patronales avec le SMIC en vigueur depuis le 1er juin 2026 (1 867,02 € brut mensuel). Nouvelle icône PROJETLIA et logo BudappsAI. Vos dossiers sont conservés.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
