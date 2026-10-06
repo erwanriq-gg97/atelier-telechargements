@@ -1,13 +1,14 @@
 {
-  "_lisez_moi": "Manifeste de version, a publier a la racine du site. L'Atelier le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.26.0",
+  "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
+  "version": "1.28.0",
   "obligatoire": false,
-  "publie_le": "2026-09-30",
-  "notes": "Vos dossiers sont rangés par année sur l'accueil. Formule Standard : BTPEDIA chiffre jusqu'à 75 m². Les signalements partent vers contact@budappsai.com.",
+  "publie_le": "2026-10-06",
+  "notes": "L'application s'appelle désormais PROJETLIA. Le téléchargement se fait sur budappsai.com avec votre licence (ou votre code d'accès). Vos dossiers sont conservés.",
   "liens": {
-    "mac": "https://github.com/budappsai/telechargements/releases/latest/download/ATELIER-macOS-AppleSilicon.dmg",
-    "mac_arm": "https://github.com/budappsai/telechargements/releases/latest/download/ATELIER-macOS-AppleSilicon.dmg",
-    "mac_intel": "https://github.com/budappsai/telechargements/releases/latest/download/ATELIER-macOS-Intel.dmg",
-    "windows": "https://github.com/budappsai/telechargements/releases/latest/download/ATELIER-Windows.zip"
-  }
+    "mac": "https://www.budappsai.com/telecharger.html",
+    "mac_arm": "https://www.budappsai.com/telecharger.html",
+    "mac_intel": "https://www.budappsai.com/telecharger.html",
+    "windows": "https://www.budappsai.com/telecharger.html"
+  },
+  "protege": true
 }
