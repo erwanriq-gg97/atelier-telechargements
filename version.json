@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.28.1",
+  "version": "1.29.0",
   "obligatoire": false,
   "publie_le": "2026-10-06",
-  "notes": "Correctifs de sécurité. L'application s'appelle désormais PROJETLIA : téléchargement sur budappsai.com avec votre licence ou votre code d'accès. Vos dossiers sont conservés.",
+  "notes": "Nouvelle icône PROJETLIA. Le navigateur de l'application ne propose plus les noms, adresses et courriels saisis dans un autre dossier. La croix de l'Administration ferme de nouveau la fenêtre. Vos dossiers sont conservés.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
