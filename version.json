@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.29.3",
+  "version": "1.29.4",
   "obligatoire": false,
   "publie_le": "2026-10-06",
-  "notes": "Taux de crédit immobilier au niveau de septembre 2026 (20 ans 3,5 %, 25 ans 3,6 %), frais d'acquisition à 8 % dans PATRIMONIA, veille réglementaire étendue à BTPEDIA. Vos dossiers sont conservés.",
+  "notes": "CREATA : un projet encore vide suit de nouveau le pays choisi sur l'accueil (il restait sur le pays précédent). Taux de crédit immobilier au niveau de septembre 2026, frais d'acquisition à 8 % dans PATRIMONIA. Vos dossiers sont conservés.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
