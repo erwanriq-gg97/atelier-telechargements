@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.29.5",
+  "version": "1.30.0",
   "obligatoire": false,
-  "publie_le": "2026-10-13",
-  "notes": "CREATA : vos projets s'ouvrent de nouveau quand un autre projet est en devise étrangère (Chine, Brésil, États-Unis). Nouveau bouton « Client » sur chaque dossier : nom, adresse, téléphone, courriel. BTPEDIA : le métré du plan et l'onglet Métré donnent le même chiffre. Choix du pays plus fiable. Vos dossiers sont conservés.",
+  "publie_le": "2026-10-14",
+  "notes": "Nouvelle application Forever 8 : le suivi de votre entreprise au quotidien (affaires, clients réguliers, trésorerie mois par mois), disponible avec un abonnement dédié. Vos dossiers et vos applications actuelles ne changent pas.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
