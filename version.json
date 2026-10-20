@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.31.1",
+  "version": "1.32.0",
   "obligatoire": true,
   "publie_le": "2026-10-20",
-  "notes": "PILOTIA rejoint Forever 8 : une seule application pour suivre votre entreprise, vos projets et leurs liens aux dossiers sont repris automatiquement. Vos sauvegardes sont désormais chiffrées (notez la clé de récupération, dans Sauvegarde). Liste des dossiers bien plus rapide, corrections de calcul et de fiabilité. Sur Mac Apple Silicon, cette version rétablit le démarrage des applications. (1.31.1 : petite correction de l'accueil.)",
+  "notes": "Les applications se passent désormais les chiffres du dossier, dans l'ordre CREATA, JURIDIA, BTPEDIA, ENERGIA puis Forever 8 : l'accueil montre une synthèse claire (à investir, apport et emprunt, travaux, énergie, conformité). ENERGIA reprend la surface et les locaux de BTPEDIA ; Forever 8 affiche ce que le dossier sait. Métré de BTPEDIA en français lisible. Corrections de boutons.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
