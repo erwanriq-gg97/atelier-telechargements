@@ -1,7 +1,7 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
   "version": "1.31.0",
-  "obligatoire": false,
+  "obligatoire": true,
   "publie_le": "2026-10-20",
   "notes": "PILOTIA rejoint Forever 8 : une seule application pour suivre votre entreprise, vos projets et leurs liens aux dossiers sont repris automatiquement. Vos sauvegardes sont désormais chiffrées (notez la clé de récupération, dans Sauvegarde). Liste des dossiers bien plus rapide, corrections de calcul et de fiabilité. Sur Mac Apple Silicon, cette version rétablit le démarrage des applications.",
   "liens": {
