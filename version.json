@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.33.0",
+  "version": "1.33.1",
   "obligatoire": true,
   "publie_le": "2026-10-21",
-  "notes": "Le pays se choisit maintenant dans chaque application, et le parcours « Et maintenant ? » suit l'ordre CREATA, JURIDIA, BTPEDIA, ENERGIA, Forever 8. ENCYCLOPEDIA passe à 151 fiches illustrées, rangées par sous-familles, chacune avec sa source. Forever 8 : totaux immédiats, TVA saisie en taux, bouton Dupliquer, échéances dans Trésorerie. PATRIMONIA : régimes expliqués, frais d'agence en % ou en euros. ENERGIA : la cartographie rejoint Plan & structure, ajout d'un étage.",
+  "notes": "Corrections de calcul : dans CREATA, le bilan suit les délais client et fournisseur saisis et le point mort est arrondi au mois supérieur ; PATRIMONIA montre le capital restant dû à la revente ; ENERGIA compte l'abonnement partout. ENCYCLOPEDIA : illustrations complétées et recherche plus juste. Forever 8 : factures lisibles en petit écran, dates au format français. Partout : les milliers se lisent mieux et les accents sont rétablis.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
