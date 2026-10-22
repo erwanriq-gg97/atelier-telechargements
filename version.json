@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.36.0",
+  "version": "1.37.0",
   "obligatoire": false,
   "publie_le": "2026-10-22",
-  "notes": "Forever 8 ajoute les achats et les stocks pour les entreprises moyennes et grandes : commandes fournisseurs, réception qui fait entrer la marchandise en stock, factures fournisseurs avec échéance et paiement. Le stock se calcule à partir des mouvements, avec sa valeur au coût et une alerte sous le minimum. Le tableau de bord montre ce qui reste à payer aux fournisseurs et la valeur du stock.",
+  "notes": "Forever 8 ajoute la production pour les entreprises moyennes et grandes : nomenclatures (composants et temps de main-d'œuvre), coût de revient calculé, ordres de fabrication qui montrent les composants manquants. Un ordre terminé consomme les composants, fait entrer le produit fini en stock et fige son coût.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
