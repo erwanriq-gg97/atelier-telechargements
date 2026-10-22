@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.34.0",
+  "version": "1.35.0",
   "obligatoire": false,
   "publie_le": "2026-10-22",
-  "notes": "Forever 8 devient une solution de gestion intégrée pour les entreprises moyennes et grandes : clients et fournisseurs, articles, ventes (devis, commande, facture en un clic) et un cockpit en cartes. La taille de l'entreprise se règle dans Mon entreprise ; une petite entreprise garde le suivi simple. Les fichiers de l'ancien assistant sont retirés.",
+  "notes": "Forever 8 prend la place de PATRIMONIA dans le cercle Gestion & pilotage de l'accueil. Son menu passe de 14 à 7 entrées, avec des onglets dans les pages : Ventes (devis et commandes, factures, abonnements), Fichiers (clients et fournisseurs, articles), Prévu vs réel, Mon entreprise. Les Affaires rejoignent les Ventes, reprises automatiquement ; les chiffres du tableau de bord ne changent pas.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
