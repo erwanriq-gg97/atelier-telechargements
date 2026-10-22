@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.37.0",
+  "version": "1.40.0",
   "obligatoire": false,
   "publie_le": "2026-10-22",
-  "notes": "Forever 8 ajoute la production pour les entreprises moyennes et grandes : nomenclatures (composants et temps de main-d'œuvre), coût de revient calculé, ordres de fabrication qui montrent les composants manquants. Un ordre terminé consomme les composants, fait entrer le produit fini en stock et fige son coût.",
+  "notes": "Forever 8 devient une gestion intégrée complète pour les entreprises moyennes et grandes. Équipe : salariés, masse salariale et congés. Finance : contribution, TVA, balance âgée et vue de groupe pour plusieurs sociétés. Rôles et accès par personne. IA d'entreprise : 100 % locale, éteinte par défaut ; ses chiffres viennent toujours des calculs de Forever 8 et elle n'a pas accès à l'équipe.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
