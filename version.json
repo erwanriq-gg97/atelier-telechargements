@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.49.2",
+  "version": "1.50.0",
   "obligatoire": false,
-  "publie_le": "2026-10-28",
-  "notes": "Correction : l'effectif saisi dans CREATA (salariés et cadres de la Gestion) est maintenant transmis à JURIDIA, qui le recevait toujours à 0 et en déduisait de mauvaises obligations. Rien d'autre ne change depuis la 1.49.1.",
+  "publie_le": "2026-10-30",
+  "notes": "BTPEDIA : nouvelle maquette 3D meublée, plan 2D avec meubles et couleurs de pièces, ombres et fenêtres vitrées, exemples refaits. Culture RSE : fiches CSRD et VSME mises à jour. Forever 8 s'ajoute désormais à la formule Standard et reste compris dans Pro.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
