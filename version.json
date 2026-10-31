@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.50.0",
+  "version": "1.51.0",
   "obligatoire": false,
-  "publie_le": "2026-10-30",
-  "notes": "BTPEDIA : nouvelle maquette 3D meublée, plan 2D avec meubles et couleurs de pièces, ombres et fenêtres vitrées, exemples refaits. Culture RSE : fiches CSRD et VSME mises à jour. Forever 8 s'ajoute désormais à la formule Standard et reste compris dans Pro.",
+  "publie_le": "2026-10-31",
+  "notes": "CREATA : parcours pour une entreprise qui existe déjà avec ses chiffres réels, son diagnostic, ses pistes chiffrées et un plan en PDF. Chaque aide dit quand, comment et auprès de qui la demander. Aides par secteur ajoutées. BTPEDIA : les cloisons s'arrêtent au mur, déplacement du plan corrigé, panneaux affichés au bouton. Accueil : les applications sortent au survol.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
