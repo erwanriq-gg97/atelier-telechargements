@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.55.0",
+  "version": "1.55.1",
   "obligatoire": false,
   "publie_le": "2026-11-03",
-  "notes": "Nouvel accueil de PROJETLIA : un bandeau avec vos chiffres et les neuf applications visibles d'emblée, par sphère. Formule Standard : CREATA s'ouvre jusqu'au financement. Écran Clients et abonnements côté éditeur.",
+  "notes": "Correctif : lecture des paiements avec la nouvelle bibliothèque Stripe, côté éditeur. Rien ne change pour vous à l'usage.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
