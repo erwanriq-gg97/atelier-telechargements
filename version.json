@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.52.0",
+  "version": "1.53.0",
   "obligatoire": false,
-  "publie_le": "2026-11-01",
-  "notes": "Forever 8 : alertes d'impôts et de déclarations, avec rappels dans votre agenda et suivi du plan décidé dans CREATA. CREATA : import du FEC, coût du changement de statut, fiches d'aides vérifiées. BTPEDIA : matières en 3D, étiquettes de plan lisibles, cuisine de restaurant adaptée.",
+  "publie_le": "2026-11-03",
+  "notes": "Forever 8 : compte de résultat et bilan à préparer, avec ce que l'appli sait déjà et vos saisies. CREATA : onglet Administration allégé. Traductions complétées dans les sept langues.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
