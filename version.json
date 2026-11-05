@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.56.0",
+  "version": "1.57.0",
   "obligatoire": false,
-  "publie_le": "2026-11-04",
-  "notes": "Forever 8 se prend seul ou avec la formule Standard. « Voir les formules » ouvre la page des tarifs.",
+  "publie_le": "2026-11-05",
+  "notes": "Formule Pro : Claude peut travailler dans vos dossiers (extension « PROJETLIA pour Claude », à allumer sur l'accueil). « Plusieurs postes ? » mène à la formule Structures.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
