@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.57.0",
+  "version": "1.57.1",
   "obligatoire": false,
   "publie_le": "2026-11-05",
-  "notes": "Formule Pro : Claude peut travailler dans vos dossiers (extension « PROJETLIA pour Claude », à allumer sur l'accueil). « Plusieurs postes ? » mène à la formule Structures.",
+  "notes": "Windows : le logo rouvre PROJETLIA sans le fermer ; l'abonnement Microsoft Store se prend dans l'appli ; « Voir mon parcours » marche dès l'installation.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
