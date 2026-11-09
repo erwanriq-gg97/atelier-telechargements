@@ -3,7 +3,7 @@
   "version": "1.57.4",
   "obligatoire": false,
   "publie_le": "2026-11-09",
-  "notes": "Connecteur ChatGPT (avancé, éteint par défaut), fenêtre Claude épurée, quelques corrections du connecteur.",
+  "notes": "Corrections du connecteur et de la fenêtre Claude ; un accès avancé (éteint par défaut) pour les assistants compatibles.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
