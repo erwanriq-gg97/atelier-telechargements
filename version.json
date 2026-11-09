@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.57.3",
+  "version": "1.57.4",
   "obligatoire": false,
   "publie_le": "2026-11-09",
-  "notes": "Claude peut lire vos dossiers anonymisés (case cochée par défaut) ; une fenêtre pour connecter Claude avec la formule Pro ; mise à jour par le bandeau plus sûre.",
+  "notes": "Connecteur ChatGPT (avancé, éteint par défaut), fenêtre Claude épurée, quelques corrections du connecteur.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
