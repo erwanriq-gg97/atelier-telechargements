@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.57.4",
+  "version": "1.57.5",
   "obligatoire": false,
-  "publie_le": "2026-11-09",
-  "notes": "Corrections du connecteur et de la fenêtre Claude ; un accès avancé (éteint par défaut) pour les assistants compatibles.",
+  "publie_le": "2026-11-12",
+  "notes": "Aides de CREATA selon le statut et l'ancienneté de l'entreprise : garantie Bpifrance réservée aux moins de 3 ans, microcrédit ADIE jusqu'à 15 000 €, démarches et conditions précisées.",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
