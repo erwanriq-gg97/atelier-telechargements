@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.58.0",
+  "version": "1.58.1",
   "obligatoire": false,
   "publie_le": "2026-11-24",
-  "notes": "PROJETLIA devient Projé9 : nouveau nom et nouveau logo. Accents et ponctuation corrigés à l'écran, « entrepreneur » au lieu de « porteur », recettes et dépenses dans Forever 8, textes d'accueil des applications revus.",
+  "notes": "Orthographe et accents revus à l'écran ainsi que dans les PDF et les fichiers Excel. CREATA : achats uniques dans l'année, achats regroupés par groupe et sous-groupe, nouveau produit « vente immobilière ».",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
