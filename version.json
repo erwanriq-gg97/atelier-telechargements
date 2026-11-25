@@ -1,9 +1,9 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.58.1",
+  "version": "1.58.2",
   "obligatoire": false,
-  "publie_le": "2026-11-24",
-  "notes": "Orthographe et accents revus à l'écran ainsi que dans les PDF et les fichiers Excel. CREATA : achats uniques dans l'année, achats regroupés par groupe et sous-groupe, nouveau produit « vente immobilière ».",
+  "publie_le": "2026-11-25",
+  "notes": "Message plus clair quand une application n'est pas comprise dans votre formule. La fenêtre « Faisons connaissance » ne revient plus après « Plus tard ».",
   "liens": {
     "mac": "https://www.budappsai.com/telecharger.html",
     "mac_arm": "https://www.budappsai.com/telecharger.html",
