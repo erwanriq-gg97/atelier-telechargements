@@ -1,6 +1,6 @@
 {
   "_lisez_moi": "Manifeste de version, a publier a la racine du site. PROJETLIA le demande au demarrage. 'obligatoire' bloque l'ouverture des modules : a reserver aux corrections qui rendraient un calcul faux.",
-  "version": "1.58.3",
+  "version": "1.58.4",
   "obligatoire": false,
   "publie_le": "2026-11-26",
   "notes": "Au premier lancement, un rappel : Projé9 est un outil d'aide à la décision. Forever 8 : option TVA d'après les débits sur les factures. Formation : attestation conforme à l'article 4 du règlement sur l'IA. CREATA : inflation de référence à jour (3,4 %). Veille réglementaire précisée.",
